@@ -17,3 +17,9 @@ Columizer api breaks page in multiple column and here in this case kept column s
 	footer
 
 with footer print css for page break is added to avoid the overlapping of the contant. 
+
+## Limitiations
+Here we need to fix the supported page length as we need to keep the height for printing page fixed to make page print properly.
+
+## Issues
+Currenty its showing Page no. which is overlapping, and this can be easily removed by editing api or just by CSS.
