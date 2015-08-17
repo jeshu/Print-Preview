@@ -6,7 +6,7 @@ This sample is using [columnizer-jquery-plugin](http://welcome.totheinter.net/co
 
 ## Demo.
 
-Check [here](http://jeshu.github.io/printPreview/index.html) for the demo.
+Check [here](http://jeshu.github.io/Print-Preview/index.html) for the demo.
 
 Please note you need to manually hit Ctrl-p to check the print preview for the page.
 
